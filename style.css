@@ -1,0 +1,16 @@
+body{
+background-color: black;
+color: darkred;
+}
+
+section{
+background-color: lightcoral;
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto{
+
+    margin-right: 5%;
+}
